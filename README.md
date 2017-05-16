@@ -1,7 +1,8 @@
 ![pcb rendering](/pcb_render_10.png)
 # TinyTouch
-** Simple and reliable finger-to-PCB touch sensing**   
-By Conor Peterson - conor.p.peterson@gmail.com 2016 
+** Simple and reliable finger-to-PCB touch sensing **   
+By Conor Peterson - conor.p.peterson@gmail.com 2016
+
 License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 This project demonstrates simple and reliable on/off capacitive touch sensing. It is designed for use in interactive artworks or museum displays but would be well-suited for any hardwired application that requires oversized, physically accessible buttons located a distance from the controlling hardware.
