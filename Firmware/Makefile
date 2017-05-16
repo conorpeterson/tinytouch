@@ -21,7 +21,7 @@ DEVICE     = attiny45
 CLOCK      = 8000000
 PROGRAMMER = -c usbtiny
 OBJECTS    = main.o
-FUSES      = -U hfuse:w:0xFF:m -U lfuse:w:0xE2:m -U efuse:w:0xFF:m
+FUSES      = -U hfuse:w:0xDF:m -U lfuse:w:0xE2:m -U efuse:w:0xFF:m
 
 # ATMega8 fuse bits used above (fuse bits for other devices are different!):
 # Example for 8 MHz internal oscillator
